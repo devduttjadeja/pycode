@@ -1,3 +1,3 @@
 from gtts import gTTS
-tts = gTTS('hello my name is leonidas and this is sparta')
+tts = gTTS('Hey siri call bodi montreal')
 tts.save('hello.mp3')
